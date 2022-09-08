@@ -1,6 +1,6 @@
 # QML Project
 
-Ces projets sont écrits à partir de l'environnement QML de Atos.
+Ces projets sont écrits à partir de l'environnement MyQlm de Atos.
 
 Ils concernent les points suivants :
 
@@ -13,13 +13,13 @@ Ils concernent les points suivants :
 
 \- \- \-
 
-These projects are written from the QML environment of Atos.
+These projects are written from the MyQlm environment of Atos.
 
 They concern the following points:
 
 - The implementation of a simple circuit
 
-- A measurement on two qubits
+- A measurement on __two qubits__
 
-- Manipulation of observables
+- Manipulation of __observables__
 
