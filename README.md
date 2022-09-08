@@ -7,9 +7,9 @@ Ils concernent les points suivants :
 
 - L'implémentationd'un circuit simple
 
-- Une mesure sur deux qubits
+- Une mesure sur __deux qubits__
 
-- Une manipulation des observables
+- Une manipulation des __observables__
 
 \- \- \-
 
